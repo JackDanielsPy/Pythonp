@@ -11,4 +11,6 @@ for i in range(1,100):
         print("fizz")
     else:
         print(i)
+
+print("Excelente el programa funciona correctamente")
     
